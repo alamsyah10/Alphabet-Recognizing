@@ -1,0 +1,7 @@
+.H1toH5 input { display: none; }
+.H1toH5 .seatButton { padding: 5px; border: 1px solid #ccc; background: yellow; }
+.H1toH5 input:checked + .seatButton { background: red; }
+
+.blueColor{
+    background:blue;
+}
